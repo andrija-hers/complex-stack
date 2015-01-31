@@ -1,0 +1,25 @@
+{
+  "name": "complex-stack",
+  "version": "0.1.0",
+  "description": "Stack implementation based on complex-list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrija-hers/complex-stack"
+  },
+  "keywords": [
+    "stack"
+  ],
+  "author": "Andrija Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrija-hers/complex-stack/issues"
+  },
+  "homepage": "https://github.com/andrija-hers/complex-stack",
+  "dependencies": {
+    "complex-list" : "^0.1.0"
+  }
+}

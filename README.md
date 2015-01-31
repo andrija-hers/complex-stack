@@ -1,2 +1,2 @@
-# complex-stack
-Stack implementation based on complex-list
+# complex-fifo
+FIFO implementation based on complex-list
